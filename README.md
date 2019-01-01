@@ -1,5 +1,6 @@
 # Labyrinth
-A cool AR based Labyrinth(Maze) game where your aim is to take the red ball to the finish point.
+A cool Augmented reality based Labyrinth(Maze) game where your aim is to take the red ball to the finish point.
+Made using Unity and Vuforia Augmented Reality SDK
 
 ## Instructions
 * Print the **Maze.pdf** file.  
